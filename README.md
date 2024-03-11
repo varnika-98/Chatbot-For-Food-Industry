@@ -1,6 +1,5 @@
 # Chatbot-For-Food-Industry
-Certainly! Here’s a concise description for your food industry chatbot project:
-Project Description: Restaurant Chatbot and Automated Food Delivery System
+
 The Restaurant Chatbot and Automated Food Delivery System is an innovative solution designed to enhance the dining experience for both customers and restaurant staff. Here are the key features:
 ## Chatbot for Customer Queries:
 The chatbot, integrated into the restaurant’s website, provides quick and accurate responses to common customer inquiries.
